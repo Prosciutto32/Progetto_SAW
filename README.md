@@ -9,8 +9,8 @@
 ---
 
 ## 📅 Giorno 1 – Introduzione a SvelteKit
-- [ ] **Video:** [SvelteKit Crash Course – Traversy Media](https://www.youtube.com/watch?v=UU7MgYIbtAk)  
-- [ ] **Esercizio:** Installa SvelteKit e crea una pagina semplice  
+- [x] **Video:** [SvelteKit Crash Course – Traversy Media](https://www.youtube.com/watch?v=UU7MgYIbtAk)  
+- [x] **Esercizio:** Installa SvelteKit e crea una pagina semplice  
 - 📝 **Note:**  
 
 ---
