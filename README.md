@@ -16,8 +16,8 @@
 ---
 
 ## 📅 Giorno 2 – Routing
-- [ ] **Video:** [Routing Explained – The Codeholic](https://www.youtube.com/watch?v=4a0I-5jJJsg)  
-- [ ] **Esercizio:** Crea un sito con 3 pagine  
+- [x] **Video:** [Routing Explained – The Codeholic](https://www.youtube.com/watch?v=4a0I-5jJJsg)  
+- [x] **Esercizio:** Crea un sito con 3 pagine  
 - 📝 **Note:**  
 
 ---
